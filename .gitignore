@@ -1,0 +1,8 @@
+# Ignore every file with an extension, anywhere in the repo
+*.log
+*.tmp
+*.pyc
+
+# Ignore OS junk
+.DS_Store
+Thumbs.db
