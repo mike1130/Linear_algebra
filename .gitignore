@@ -6,3 +6,9 @@
 # Ignore OS junk
 .DS_Store
 Thumbs.db
+
+# folders
+LinAlg4DataScience/
+chp-16/
+chp_01/
+chp_02/
